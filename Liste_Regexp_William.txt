@@ -5,3 +5,5 @@
 !
 !
 /^[0-9].amazon|north-america.pool.ntp.org
+/^pool.ntp.org
+/^uk.pool.ntp.org
