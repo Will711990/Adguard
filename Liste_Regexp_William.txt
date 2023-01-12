@@ -1,0 +1,7 @@
+! Title: Liste Regexp William
+! Description: Liste Regexp William.
+! Last Modified: 12-01-2023
+!
+!
+!
+/^[0-9].amazon|north-america.pool.ntp.org
